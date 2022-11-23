@@ -7,3 +7,6 @@ negative, and neutral sentiments.
 
 The goal of this project is to critically assess the effectiveness of various Machine Learning classification 
 algorithms on the problem of determining a tweet's sentiment.
+
+
+Finished 72 on Kaggle: https://www.kaggle.com/competitions/comp30027-2022/leaderboard
